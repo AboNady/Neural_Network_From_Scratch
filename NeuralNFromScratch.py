@@ -24,7 +24,7 @@ neuronsL1 = 2   #Neurons of the First layer, I set it to 2
 neuronsL2 = 2   #Neurons of the Second layer, I set it to 2
 neuronsL3 = 1   #Neurons of the Last layer (Output Layer), I set it to 1. Because it is a Binary Classification Problem
 
-
+ 
 
 #----------------------------------------------------------------------------------------
 
