@@ -3,7 +3,7 @@
 import time #Nothing to do here, just to calculate the execution time, we will use later
 import numpy as np
         
-       
+        
 # OUr very Simple data set.
 # Imagine it as subjects in school Algebra, Calculus, Physics etc... and we have 6 students with different grades for 3 subjects
 inp =  np.array([ [1,1,1],[0,0,0],[1,0,1],
