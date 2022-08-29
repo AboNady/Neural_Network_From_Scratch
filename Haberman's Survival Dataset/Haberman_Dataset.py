@@ -1,7 +1,7 @@
 # Haberman's Survival Data Set
 # I have changed the values [2] to Zero so it can be easier. Just [0] and [1]  
 #---
- 
+  
 # Inputs Random Sorted
 [49,63,3],
 [45,68,0],
